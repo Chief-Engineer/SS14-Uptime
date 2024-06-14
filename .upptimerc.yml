@@ -41,7 +41,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/space-wizards/space-station-14/master/Resources/Textures/Logo/icon/icon-128x128.png
   name: SS14 Uptime
   introTitle: "**Space Station 14** is an open-source multiplayer game about paranoia and chaos on a space station."
-  introMessage: This is an uptime monitor for various Space Station 14 servers and services.
+  introMessage: This is an unofficial uptime monitor for various Space Station 14 servers and services.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
