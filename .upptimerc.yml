@@ -33,19 +33,18 @@ sites:
     url: https://one.rain.spacestation14.com/three/status
 
 status-website:
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /SS14-Uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  logoUrl: https://raw.githubusercontent.com/space-wizards/space-station-14/master/Resources/Textures/Logo/icon/icon-128x128.png
+  name: SS14 Uptime
+  introTitle: "**Space Station 14** is an open-source multiplayer game about paranoia and chaos on a space station."
+  introMessage: This is an uptime monitor for various Space Station 14 servers and services.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  footer: ""
