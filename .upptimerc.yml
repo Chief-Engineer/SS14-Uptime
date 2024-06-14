@@ -9,6 +9,22 @@ sites:
     url: https://forum.spacestation14.com/
   - name: SS14 Wiki
     url: https://wiki.spacestation14.io/
+  - name: "Wizard's Den Lizard"
+    url: https://lizard.spacestation14.io/server/status
+  - name: "Wizard's Den Leviathan"
+    url: https://leviathan.spacestation14.com/server/status
+  - name: "Wizard's Den Salamander"
+    url: https://lizard.spacestation14.io/salamander/status
+  - name: "Wizard's Den Miros"
+    url: https://miros.spacestation14.io/server/status
+  - name: "Wizard's Den Vulture"
+    url: https://leviathan.spacestation14.com/vulture/status
+  - name: "Wizard's Den Farm Grass Hopper"
+    url: https://one.rain.spacestation14.com/one/status
+  - name: "Wizard's Den Granite Flea"
+    url: https://two.rain.spacestation14.com/one/status
+  - name: "Wizard's Den Red Firefly"
+    url: https://one.rain.spacestation14.com/three/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
