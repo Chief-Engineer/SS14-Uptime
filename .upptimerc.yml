@@ -5,32 +5,46 @@ repo: SS14-Uptime # The name of this repository
 sites:
   - name: spacestation14.com
     url: https://spacestation14.com/
+    maxResponseTime: 3000
   - name: SS14 Forums
     url: https://forum.spacestation14.com/
+    maxResponseTime: 3000
   - name: SS14 Wiki
     url: https://wiki.spacestation14.io/
+    maxResponseTime: 3000
   - name: SS14 Auth
     url: https://auth.spacestation14.com/api/query/userid?userid=$TOP_SECRET_VALID_SS14_USER
+    maxResponseTime: 2000
   - name: SS14 Hub
     url: https://hub.spacestation14.com/api/servers
+    maxResponseTime: 2000
   - name: SS14 CDN (Server Builds)
     url: https://cdn.centcomm.spacestation14.com/builds/wizards/
+    maxResponseTime: 2000
   - name: "Wizard's Den Lizard"
     url: https://lizard.spacestation14.io/server/status
+    maxResponseTime: 1000
   - name: "Wizard's Den Leviathan"
     url: https://leviathan.spacestation14.com/server/status
+    maxResponseTime: 1000
   - name: "Wizard's Den Salamander"
     url: https://lizard.spacestation14.io/salamander/status
+    maxResponseTime: 1000
   - name: "Wizard's Den Miros"
     url: https://miros.spacestation14.io/server/status
+    maxResponseTime: 1000
   - name: "Wizard's Den Vulture"
     url: https://leviathan.spacestation14.com/vulture/status
+    maxResponseTime: 1000
   - name: "Wizard's Den Farm Grass Hopper"
     url: https://one.rain.spacestation14.com/one/status
+    maxResponseTime: 1000
   - name: "Wizard's Den Granite Flea"
     url: https://two.rain.spacestation14.com/one/status
+    maxResponseTime: 1000
   - name: "Wizard's Den Red Firefly"
     url: https://one.rain.spacestation14.com/three/status
+    maxResponseTime: 1000
 
 status-website:
   theme: night
