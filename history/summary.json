@@ -40,19 +40,19 @@
     "url": "https://wiki.spacestation14.io/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.spacestation14.io.ico",
     "slug": "ss-14-wiki",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 480,
-    "timeDay": 651,
-    "timeWeek": 480,
-    "timeMonth": 480,
-    "timeYear": 480,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 478,
+    "timeDay": 587,
+    "timeWeek": 478,
+    "timeMonth": 478,
+    "timeYear": 478,
     "dailyMinutesDown": {
-      "2024-06-16": 1
+      "2024-06-16": 5
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://cdn.centcomm.spacestation14.com/builds/wizards/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.centcomm.spacestation14.com.ico",
     "slug": "ss-14-cdn-server-builds",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 301,
-    "timeWeek": 258,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 274,
+    "timeDay": 330,
+    "timeWeek": 274,
+    "timeMonth": 274,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-06-16": 0
+      "2024-06-16": 4
     }
   },
   {
