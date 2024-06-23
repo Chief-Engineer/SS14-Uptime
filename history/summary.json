@@ -188,19 +188,19 @@
     "url": "https://leviathan.spacestation14.com/vulture/status",
     "icon": "https://icons.duckduckgo.com/ip3/leviathan.spacestation14.com.ico",
     "slug": "wizard-s-den-vulture",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 39,
     "timeDay": 32,
-    "timeWeek": 42,
+    "timeWeek": 41,
     "timeMonth": 39,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2024-06-23": 27
+      "2024-06-23": 33
     }
   },
   {
