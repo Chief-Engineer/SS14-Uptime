@@ -48,7 +48,7 @@
     "uptimeYear": "99.87%",
     "time": 490,
     "timeDay": 433,
-    "timeWeek": 513,
+    "timeWeek": 500,
     "timeMonth": 490,
     "timeYear": 490,
     "dailyMinutesDown": {
@@ -104,7 +104,7 @@
     "uptimeYear": "99.87%",
     "time": 285,
     "timeDay": 264,
-    "timeWeek": 300,
+    "timeWeek": 303,
     "timeMonth": 285,
     "timeYear": 285,
     "dailyMinutesDown": {
@@ -189,11 +189,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/leviathan.spacestation14.com.ico",
     "slug": "wizard-s-den-vulture",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 39,
     "timeDay": 31,
     "timeWeek": 41,
@@ -227,18 +227,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/two.rain.spacestation14.com.ico",
     "slug": "wizard-s-den-granite-flea",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.29%",
+    "uptimeDay": "92.90%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
     "time": 152,
     "timeDay": 43,
     "timeWeek": 183,
     "timeMonth": 152,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2024-06-24": 0
+      "2024-06-24": 102
     }
   },
   {
@@ -246,17 +246,19 @@
     "url": "https://one.rain.spacestation14.com/three/status",
     "icon": "https://icons.duckduckgo.com/ip3/one.rain.spacestation14.com.ico",
     "slug": "wizard-s-den-red-firefly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 31,
+    "time": 29,
     "timeDay": 3,
-    "timeWeek": 38,
-    "timeMonth": 31,
-    "timeYear": 31,
-    "dailyMinutesDown": {}
+    "timeWeek": 34,
+    "timeMonth": 29,
+    "timeYear": 29,
+    "dailyMinutesDown": {
+      "2024-06-24": 0
+    }
   }
 ]
