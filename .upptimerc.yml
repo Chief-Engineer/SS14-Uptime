@@ -39,12 +39,12 @@ sites:
   - name: "Wizard's Den Farm Grass Hopper"
     url: https://one.rain.spacestation14.com/one/status
     maxResponseTime: 1000
-  - name: "Wizard's Den Granite Flea"
-    url: https://two.rain.spacestation14.com/one/status
-    maxResponseTime: 1000
-  - name: "Wizard's Den Red Firefly"
-    url: https://one.rain.spacestation14.com/three/status
-    maxResponseTime: 1000
+#  - name: "Wizard's Den Granite Flea"
+#    url: https://two.rain.spacestation14.com/one/status
+#    maxResponseTime: 1000
+#  - name: "Wizard's Den Red Firefly"
+#    url: https://one.rain.spacestation14.com/three/status
+#    maxResponseTime: 1000
 
 status-website:
   theme: night
