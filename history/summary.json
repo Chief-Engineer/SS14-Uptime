@@ -134,18 +134,20 @@
     "url": "https://leviathan.spacestation14.com/server/status",
     "icon": "https://icons.duckduckgo.com/ip3/leviathan.spacestation14.com.ico",
     "slug": "wizard-s-den-leviathan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 267,
-    "timeWeek": 164,
+    "timeDay": 221,
+    "timeWeek": 165,
     "timeMonth": 159,
     "timeYear": 159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-01": 0
+    }
   },
   {
     "name": "Wizard's Den Salamander",
@@ -171,18 +173,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/miros.spacestation14.io.ico",
     "slug": "wizard-s-den-miros",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.87%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 570,
     "timeDay": 669,
     "timeWeek": 580,
     "timeMonth": 570,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2024-07-01": 0
+      "2024-07-01": 31
     }
   },
   {
@@ -191,18 +193,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/leviathan.spacestation14.com.ico",
     "slug": "wizard-s-den-vulture",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.68%",
+    "uptimeDay": "96.40%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 37,
     "timeDay": 43,
     "timeWeek": 34,
     "timeMonth": 37,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2024-07-01": 21,
+      "2024-07-01": 52,
       "2024-06-23": 27
     }
   },
