@@ -1,7 +1,7 @@
 url: https://miros.spacestation14.io/server/status
-status: up
-code: 200
-responseTime: 517
-lastUpdated: 2024-07-04T23:08:45.262Z
+status: down
+code: 502
+responseTime: 438
+lastUpdated: 2024-07-05T11:27:38.623Z
 startTime: 2024-06-14T14:57:48.531Z
 generator: Upptime <https://github.com/upptime/upptime>
