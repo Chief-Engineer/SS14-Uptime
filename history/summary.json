@@ -40,10 +40,10 @@
     "url": "https://wiki.spacestation14.io/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.spacestation14.io.ico",
     "slug": "ss-14-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.56%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "96.55%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "98.76%",
     "time": 492,
@@ -52,6 +52,7 @@
     "timeMonth": 492,
     "timeYear": 492,
     "dailyMinutesDown": {
+      "2024-07-05": 1,
       "2024-07-03": 346,
       "2024-06-21": 19
     }
@@ -97,9 +98,9 @@
     "url": "https://cdn.centcomm.spacestation14.com/builds/wizards/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.centcomm.spacestation14.com.ico",
     "slug": "ss-14-cdn-server-builds",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.57%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "98.76%",
@@ -109,6 +110,7 @@
     "timeMonth": 286,
     "timeYear": 286,
     "dailyMinutesDown": {
+      "2024-07-05": 0,
       "2024-07-03": 346,
       "2024-06-21": 18
     }
