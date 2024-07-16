@@ -19,7 +19,7 @@ sites:
     url: https://hub.spacestation14.com/api/servers
     maxResponseTime: 2000
   - name: SS14 CDN (Server Builds)
-    url: https://cdn.centcomm.spacestation14.com/builds/wizards/
+    url: https://cdn.centcomm.spacestation14.com/fork/wizards/
     maxResponseTime: 2000
   - name: "Wizard's Den Lizard"
     url: https://lizard.spacestation14.io/server/status
