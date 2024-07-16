@@ -103,7 +103,7 @@
     "slug": "ss-14-cdn-server-builds",
     "status": "down",
     "uptime": "94.90%",
-    "uptimeDay": "36.50%",
+    "uptimeDay": "36.49%",
     "uptimeWeek": "86.32%",
     "uptimeMonth": "94.66%",
     "uptimeYear": "94.90%",
@@ -166,19 +166,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lizard.spacestation14.io.ico",
     "slug": "wizard-s-den-salamander",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 43,
     "timeDay": 25,
     "timeWeek": 42,
     "timeMonth": 43,
     "timeYear": 43,
-    "dailyMinutesDown": {
-      "2024-07-16": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wizard's Den Miros",
