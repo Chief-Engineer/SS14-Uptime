@@ -1,7 +1,7 @@
 url: https://leviathan.spacestation14.com/server/status
-status: down
-code: 502
-responseTime: 164
-lastUpdated: 2024-07-21T01:10:06.073Z
+status: up
+code: 200
+responseTime: 124
+lastUpdated: 2024-07-21T13:38:58.331Z
 startTime: 2024-06-14T14:57:47.636Z
 generator: Upptime <https://github.com/upptime/upptime>
