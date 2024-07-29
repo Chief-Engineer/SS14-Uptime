@@ -74,18 +74,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.spacestation14.com.ico",
     "slug": "ss-14-auth",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 413,
     "timeDay": 527,
     "timeWeek": 381,
     "timeMonth": 415,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2024-07-29": 0
+      "2024-07-29": 12
     }
   },
   {
@@ -93,19 +93,19 @@
     "url": "https://hub.spacestation14.com/api/servers",
     "icon": "https://icons.duckduckgo.com/ip3/hub.spacestation14.com.ico",
     "slug": "ss-14-hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 848,
-    "timeWeek": 589,
-    "timeMonth": 640,
-    "timeYear": 630,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 625,
+    "timeDay": 600,
+    "timeWeek": 566,
+    "timeMonth": 631,
+    "timeYear": 625,
     "dailyMinutesDown": {
-      "2024-07-29": 0
+      "2024-07-29": 11
     }
   },
   {
