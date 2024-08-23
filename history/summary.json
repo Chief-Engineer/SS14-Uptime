@@ -75,11 +75,11 @@
     "url": "https://auth.spacestation14.com/api/query/userid?userid=$TOP_SECRET_VALID_SS14_USER",
     "icon": "https://icons.duckduckgo.com/ip3/auth.spacestation14.com.ico",
     "slug": "ss-14-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 403,
     "timeDay": 343,
@@ -87,7 +87,7 @@
     "timeMonth": 384,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2024-08-23": 6,
+      "2024-08-23": 0,
       "2024-07-29": 17
     }
   },
@@ -97,19 +97,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hub.spacestation14.com.ico",
     "slug": "ss-14-hub",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 606,
     "timeDay": 519,
     "timeWeek": 589,
     "timeMonth": 566,
     "timeYear": 606,
-    "dailyMinutesDown": {
-      "2024-08-23": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SS14 CDN (Server Builds)",
