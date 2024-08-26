@@ -1,7 +1,7 @@
 url: https://lizard.spacestation14.io/salamander/status
-status: up
-code: 200
+status: down
+code: 502
 responseTime: 54
-lastUpdated: 2024-08-25T23:09:16.697Z
+lastUpdated: 2024-08-26T03:30:40.031Z
 startTime: 2024-06-14T14:57:48.101Z
 generator: Upptime <https://github.com/upptime/upptime>
