@@ -1,7 +1,7 @@
 url: https://auth.spacestation14.com/api/query/userid?userid=$TOP_SECRET_VALID_SS14_USER
-status: degraded
+status: up
 code: 200
-responseTime: 11622
-lastUpdated: 2024-08-27T04:59:12.868Z
+responseTime: 381
+lastUpdated: 2024-08-27T05:13:47.751Z
 startTime: 2024-06-14T15:31:26.080Z
 generator: Upptime <https://github.com/upptime/upptime>
