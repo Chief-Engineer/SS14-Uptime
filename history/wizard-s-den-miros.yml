@@ -1,7 +1,7 @@
 url: https://miros.spacestation14.io/server/status
-status: down
+status: degraded
 code: 502
-responseTime: 513
-lastUpdated: 2024-10-11T08:20:32.679Z
+responseTime: 1504
+lastUpdated: 2024-10-11T16:20:36.929Z
 startTime: 2024-06-14T14:57:48.531Z
 generator: Upptime <https://github.com/upptime/upptime>
