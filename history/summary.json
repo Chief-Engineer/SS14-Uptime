@@ -151,9 +151,9 @@
     "slug": "wizard-s-den-lizard",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.67%",
     "time": 296,
     "timeDay": 311,
@@ -161,7 +161,6 @@
     "timeMonth": 279,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2024-10-22": 6,
       "2024-10-03": 21,
       "2024-08-25": 559,
       "2024-07-17": 37
