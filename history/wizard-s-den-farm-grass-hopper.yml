@@ -1,7 +1,7 @@
 url: https://one.rain.spacestation14.com/one/status
-status: up
-code: 200
-responseTime: 119
-lastUpdated: 2024-11-18T23:09:37.592Z
+status: down
+code: 502
+responseTime: 123
+lastUpdated: 2024-11-19T12:17:43.405Z
 startTime: 2024-06-14T14:57:49.730Z
 generator: Upptime <https://github.com/upptime/upptime>
