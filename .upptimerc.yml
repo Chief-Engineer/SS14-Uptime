@@ -30,15 +30,15 @@ sites:
   - name: "Wizard's Den Salamander"
     url: https://lizard.spacestation14.io/salamander/status
     maxResponseTime: 1000
-  - name: "Wizard's Den Miros"
-    url: https://miros.spacestation14.io/server/status
-    maxResponseTime: 1000
+#  - name: "Wizard's Den Miros"
+#    url: https://miros.spacestation14.io/server/status
+#    maxResponseTime: 1000
   - name: "Wizard's Den Vulture"
     url: https://leviathan.spacestation14.com/vulture/status
     maxResponseTime: 1000
-  - name: "Wizard's Den Farm Grass Hopper"
-    url: https://one.rain.spacestation14.com/one/status
-    maxResponseTime: 1000
+#  - name: "Wizard's Den Farm Grass Hopper"
+#    url: https://one.rain.spacestation14.com/one/status
+#    maxResponseTime: 1000
 #  - name: "Wizard's Den Granite Flea"
 #    url: https://two.rain.spacestation14.com/one/status
 #    maxResponseTime: 1000
