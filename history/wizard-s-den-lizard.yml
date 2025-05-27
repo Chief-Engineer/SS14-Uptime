@@ -1,7 +1,7 @@
 url: https://lizard.spacestation14.io/server/status
-status: up
-code: 200
-responseTime: 382
-lastUpdated: 2025-05-26T23:10:22.937Z
+status: down
+code: 502
+responseTime: 289
+lastUpdated: 2025-05-27T14:12:11.500Z
 startTime: 2024-06-14T14:57:46.916Z
 generator: Upptime <https://github.com/upptime/upptime>
