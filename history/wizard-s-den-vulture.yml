@@ -1,7 +1,7 @@
 url: https://leviathan.spacestation14.com/vulture/status
-status: up
-code: 200
-responseTime: 36
-lastUpdated: 2025-10-07T23:09:53.368Z
+status: down
+code: 502
+responseTime: 23
+lastUpdated: 2025-10-08T05:47:29.498Z
 startTime: 2024-06-14T14:57:49.341Z
 generator: Upptime <https://github.com/upptime/upptime>
