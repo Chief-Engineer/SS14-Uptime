@@ -1,7 +1,7 @@
 url: https://leviathan.spacestation14.com/server/status
-status: degraded
+status: up
 code: 200
-responseTime: 2776
-lastUpdated: 2025-11-02T22:40:01.309Z
+responseTime: 178
+lastUpdated: 2025-11-02T22:45:33.764Z
 startTime: 2024-06-14T14:57:47.636Z
 generator: Upptime <https://github.com/upptime/upptime>
