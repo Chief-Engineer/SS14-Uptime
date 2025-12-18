@@ -1,7 +1,7 @@
 url: https://leviathan.spacestation14.com/vulture/status
-status: degraded
-code: 502
-responseTime: 1427
-lastUpdated: 2025-12-18T13:06:53.347Z
+status: up
+code: 200
+responseTime: 48
+lastUpdated: 2025-12-18T13:45:09.861Z
 startTime: 2024-06-14T14:57:49.341Z
 generator: Upptime <https://github.com/upptime/upptime>
