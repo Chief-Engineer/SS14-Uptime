@@ -56,9 +56,14 @@ status-website:
   name: SS14 Uptime
   introTitle: "**Space Station 14** is an open-source multiplayer game about paranoia and chaos on a space station."
   introMessage: This is an unofficial uptime monitor for various Space Station 14 servers and services.
+  navbar:
+    - title: Chief-Engineer
+      href: https://chief-engineer.github.io/
+    - title: SS14 Uptime
+      href: /SS14-Uptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: ""
+  footer: "<script async data-id="101468983" src="//static.getclicky.com/js"></script>"
