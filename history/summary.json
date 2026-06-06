@@ -4,17 +4,17 @@
     "url": "https://auth.spacestation14.com/api/query/userid?userid=$TOP_SECRET_VALID_SS14_USER",
     "icon": "https://icons.duckduckgo.com/ip3/auth.spacestation14.com.ico",
     "slug": "ss-14-auth",
-    "status": "degraded",
-    "uptime": "99.90%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "88.55%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.90%",
     "time": 744,
-    "timeDay": 19656,
-    "timeWeek": 5225,
-    "timeMonth": 1600,
-    "timeYear": 691,
+    "timeDay": 13281,
+    "timeWeek": 4703,
+    "timeMonth": 1568,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2025-08-31": 63,
       "2025-09-03": 24,
@@ -23,7 +23,7 @@
       "2025-11-24": 18,
       "2026-03-11": 25,
       "2026-04-16": 67,
-      "2026-06-06": 3
+      "2026-06-06": 165
     }
   },
   {
@@ -31,17 +31,17 @@
     "url": "https://hub.spacestation14.com/api/servers",
     "icon": "https://icons.duckduckgo.com/ip3/hub.spacestation14.com.ico",
     "slug": "ss-14-hub",
-    "status": "degraded",
-    "uptime": "99.84%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
-    "time": 1300,
-    "timeDay": 19621,
-    "timeWeek": 5269,
-    "timeMonth": 1762,
-    "timeYear": 1168,
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "88.59%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.80%",
+    "time": 1299,
+    "timeDay": 13132,
+    "timeWeek": 4700,
+    "timeMonth": 1714,
+    "timeYear": 1165,
     "dailyMinutesDown": {
       "2025-06-11": 17,
       "2025-08-31": 61,
@@ -57,7 +57,7 @@
       "2026-04-12": 59,
       "2026-04-29": 67,
       "2026-04-30": 283,
-      "2026-06-06": 1
+      "2026-06-06": 164
     }
   },
   {
@@ -66,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wizards.cdn.spacestation14.com.ico",
     "slug": "ss-14-cdn-server-builds",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.72%",
+    "uptimeDay": "88.60%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.93%",
     "time": 1025,
     "timeDay": 520,
     "timeWeek": 646,
@@ -85,7 +85,7 @@
       "2025-12-15": 29,
       "2025-12-20": 19,
       "2025-12-30": 21,
-      "2026-06-06": 1
+      "2026-06-06": 164
     }
   },
   {
@@ -116,11 +116,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.spacestation14.com.ico",
     "slug": "ss-14-forums",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.79%",
+    "uptimeDay": "88.61%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.89%",
     "time": 682,
     "timeDay": 334,
     "timeWeek": 439,
@@ -133,7 +133,7 @@
       "2025-11-18": 155,
       "2026-03-26": 63,
       "2026-04-24": 57,
-      "2026-06-06": 1
+      "2026-06-06": 164
     }
   },
   {
@@ -142,11 +142,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.spacestation14.io.ico",
     "slug": "ss-14-wiki",
     "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.01%",
+    "uptime": "99.05%",
+    "uptimeDay": "88.63%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "98.98%",
     "time": 1414,
     "timeDay": 629,
     "timeWeek": 1261,
@@ -169,7 +169,7 @@
       "2026-03-10": 1440,
       "2026-03-09": 1292,
       "2026-04-22": 66,
-      "2026-06-06": 1
+      "2026-06-06": 164
     }
   },
   {
@@ -178,11 +178,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lizard.spacestation14.io.ico",
     "slug": "wizard-s-den-lizard",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.71%",
+    "uptime": "99.76%",
+    "uptimeDay": "88.64%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.68%",
     "time": 266,
     "timeDay": 200,
     "timeWeek": 237,
@@ -197,7 +197,7 @@
       "2026-03-24": 56,
       "2026-05-10": 52,
       "2026-05-16": 115,
-      "2026-06-06": 0
+      "2026-06-06": 164
     }
   },
   {
@@ -206,11 +206,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/leviathan.spacestation14.com.ico",
     "slug": "wizard-s-den-leviathan",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.60%",
+    "uptime": "99.54%",
+    "uptimeDay": "88.65%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.57%",
     "time": 187,
     "timeDay": 86,
     "timeWeek": 134,
@@ -228,7 +228,7 @@
       "2026-03-09": 848,
       "2026-04-01": 2,
       "2026-03-31": 24,
-      "2026-06-06": 0
+      "2026-06-06": 163
     }
   },
   {
@@ -236,20 +236,21 @@
     "url": "https://lizard.spacestation14.io/salamander/status",
     "icon": "https://icons.duckduckgo.com/ip3/lizard.spacestation14.io.ico",
     "slug": "wizard-s-den-salamander",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 48,
-    "timeDay": 187,
-    "timeWeek": 153,
+    "timeDay": 157,
+    "timeWeek": 150,
     "timeMonth": 146,
     "timeYear": 51,
     "dailyMinutesDown": {
       "2025-10-16": 30,
-      "2026-01-23": 247
+      "2026-01-23": 247,
+      "2026-06-06": 0
     }
   },
   {
