@@ -68,7 +68,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: SS14 Wiki
-    url: https://wiki.spacestation14.io/
+    url: https://wiki.spacestation14.com/
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
