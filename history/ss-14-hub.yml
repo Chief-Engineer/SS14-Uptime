@@ -1,7 +1,7 @@
 url: https://hub.spacestation14.com/api/servers
-status: degraded
-code: 522
-responseTime: 39276
-lastUpdated: 2026-06-25T13:30:14.029Z
+status: up
+code: 200
+responseTime: 1185
+lastUpdated: 2026-06-25T16:00:18.061Z
 startTime: 2024-06-14T15:31:26.873Z
 generator: Upptime <https://github.com/upptime/upptime>
