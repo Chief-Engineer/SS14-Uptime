@@ -86,6 +86,9 @@ status-website:
     - title: SS14 Uptime
       href: /SS14-Uptime
 
+workflowSchedule:
+  uptime: "*/15 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
