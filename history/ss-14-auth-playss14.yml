@@ -1,7 +1,7 @@
 url: https://auth.playss14.com/api/query/userid?userid=$TOP_SECRET_VALID_SS14_USER
 status: up
 code: 200
-responseTime: 139
-lastUpdated: 2026-08-16T23:10:13.039Z
+responseTime: 821
+lastUpdated: 2026-08-17T23:12:46.336Z
 startTime: 2026-06-15T18:45:13.648Z
 generator: Upptime <https://github.com/upptime/upptime>
